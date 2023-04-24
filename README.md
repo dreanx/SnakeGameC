@@ -42,14 +42,3 @@
 ## [09- Chicken Invaders Game](/C%23%20Projects/09-%20Chicken%20Invaders%20Game)
       Chicken Invaders Game.
 ![Barcode](/Graphics/Resources/Chicken%20Invaders.PNG)
-
-## [10- Chess Game](/C%23%20Projects/10-%20Chess%20Game)
-      Chess Game.
-![Barcode](/Graphics/Resources/Chess.PNG)
-
-## [11- Arkanoid Game](/C%23%20Projects/11-%20Arkanoid%20Game)
-      Arkanoid Game.
-![Barcode](/Graphics/Resources/Arkanoid.PNG) 
-
-
-
